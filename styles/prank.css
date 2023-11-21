@@ -14,6 +14,7 @@ body {
 .container {
 	width: 100%;
 	height: 100vh;
-	background: url('https://i.ytimg.com/vi/De1X5tXSbuE/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH0A4AC4AOKAgwIABABGGUgUChPMA8=&rs=AOn4CLAY5QTYUOsh6vcUV6W0ks8NjqDQqQ')
-		center / cover;
+	/* background: url('https://i.ytimg.com/vi/De1X5tXSbuE/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH0A4AC4AOKAgwIABABGGUgUChPMA8=&rs=AOn4CLAY5QTYUOsh6vcUV6W0ks8NjqDQqQ')
+		center / cover; */
+	background: url('../images/prank.jpg') center / cover;
 }
